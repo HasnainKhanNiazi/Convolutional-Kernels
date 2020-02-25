@@ -7,7 +7,7 @@ This repo includees following filters implementation from scratch in **python**
   - Horizontal Edges Detection
   - Vertical Edges Detection
 
-![Original Image](https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png/200/200)
+<img src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png" width="200" height="200">
 
 Some paragraph with text.
 > blockquote text below the paragraph
