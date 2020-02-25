@@ -6,8 +6,11 @@ This repo includees following filters implementation from scratch in **python**
 - <a href="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Sobel_Operator.py">Sobel Operator</a>
   - Horizontal Edges Detection
   - Vertical Edges Detection
-
-<img src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png" width="200" height="200">
+ 
+ <p float="left">
+  <img src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png" width="400" />
+  <img src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Sobel_Horizontal.JPG" width="400" />
+</p>
 
 Some paragraph with text.
 > blockquote text below the paragraph
