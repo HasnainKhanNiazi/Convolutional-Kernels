@@ -18,7 +18,7 @@ This repo includees following filters implementation from scratch in **python**
  
  <p float="left">
   <img title = "Original Image" hspace="20" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png" width="400" height="400" />
-  <img title="Horizontal Sobel" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Sobel_Vertical.JPG" width="400" height="400" />
+  <img title="Vertical Sobel" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Sobel_Vertical.JPG" width="400" height="400" />
 </p>
 
 
