@@ -7,10 +7,20 @@ This repo includees following filters implementation from scratch in **python**
   - Horizontal Edges Detection
   - Vertical Edges Detection
  
+ <b> Horizontal Sobel Operator </b>
+ 
  <p float="left">
-  <img src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png" width="400" />
-  <img src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Sobel_Horizontal.JPG" width="400" />
+  <img title = "Original Image" hspace="20" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png" width="400" height="400" />
+  <img title="Horizontal Sobel" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Sobel_Horizontal.JPG" width="400" height="400" />
 </p>
+
+ <b> Vertical Sobel Operator </b>
+ 
+ <p float="left">
+  <img title = "Original Image" hspace="20" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png" width="400" height="400" />
+  <img title="Horizontal Sobel" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Sobel_Vertical.JPG" width="400" height="400" />
+</p>
+
 
 Some paragraph with text.
 > blockquote text below the paragraph
