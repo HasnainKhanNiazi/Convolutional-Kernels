@@ -22,8 +22,8 @@ This repo includees following filters implementation from scratch in **python**
 </p>
 
 
-<b> Canny Edge Detector </b>
- 
+<b> <a href="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Canny_Edge_Detector.py">Canny Edge Detector</a> </b>
+
  <p float="left">
   <img title = "Original Image" hspace="20" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Lenna.png" width="400" height="400" />
   <img title="canny Edge Detector" src="https://github.com/HasnainKhanNiazi/Convolutional-Kernels/blob/master/Images/Canny_Edge_Detector.JPG" width="400" height="400" />
