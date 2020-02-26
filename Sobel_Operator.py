@@ -40,16 +40,8 @@ def box_blur():
                    [0, 0, 0],
                    [1, 2, 1]])
 
-    img_x = convolve_np(img, Hx) / 8.0
-    img_y = convolve_np(img, Hy) / 8.0
-    
-    img_out = np.sqrt(np.power(img_x, 2) + np.power(img_y, 2))
-
-    img_out = (img_out / np.max(img_out)) * 255
-    
-    plt.imshow(img_out, cmap = 'gray', interpolation = 'bicubic')
-    plt.xticks([]), plt.yticks([])  # to hide tick values on X and Y axis
-    plt.show()
+    img_x = convolve_np(img, Hx) / 8.0 # Output of Sobel Horizontal
+    img_y = convolve_np(img, Hy) / 8.0 # Output of Sobel Vertical
     
     
 if __name__ == '__main__':
