@@ -28,7 +28,7 @@ def convolve_np(image, kernel):
     return out # Returning the Convolved Image
 
 def box_blur():
-    img = cv2.imread('img_snow_wide.jpg', 0)
+    img = cv2.imread('Lenna.png', 0)
     
     # Sobel Operator for Horizontal Edge Detection
     Hx = np.array([[-1, 0, 1],
